@@ -47,8 +47,7 @@
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
 							<ul class="nav navbar-nav navbar-right">
-								<li><a href="/~rlewis37/form-demo-jquery/public_html"><i class="fa fa-home"></i></a></li>
-								<li><a href="/~rlewis37/form-demo-jquery/public_html/about">About</a></li>
+								<li><a href="https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/" target="_blank">Documentation</a></li>
 								<li><a href="https://github.com/rlewis2892/form-demo-jquery" target="_blank">GitHub</a></li>
 							</ul>
 
